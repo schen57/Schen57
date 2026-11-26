@@ -2,7 +2,9 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I build with coding agents, mostly Claude Code. Badminton, games, Japan and China, and anything that looks good are where my ideas come from. Most of what I make lives in private repos, so this page shows the work instead of the code, plus the skills I use to build it, which are open.
+I love beautiful things that set a mood, and I want to make interesting ones. What keeps me going is momentum: ship something, see how people react, make it better, and feel the pace pick up. That acceleration is the best rush I know, so I just keep building.
+
+I build with coding agents, mostly Claude Code, and my ideas come from badminton, games, Japan and China. Most of what I make lives in private repos, so this page shows the work instead of the code, plus the skills I build with, which are open.
 
 🐦 [X](https://x.com/shengyuchen) · 🏸 [Smashly](https://smashly.app)
 
