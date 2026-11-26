@@ -4,7 +4,7 @@
 
 I love beautiful things that set a mood, and I want to make interesting ones. What keeps me going is momentum: ship something, see how people react, make it better, and feel the pace pick up. That acceleration is the best rush I know, so I just keep building.
 
-I build with coding agents, mostly Claude Code, and my ideas come from badminton, games, Japan and China. Most of what I make lives in private repos, so this page shows the work instead of the code, plus the skills I build with, which are open.
+I build with coding agents, mostly Claude Code, and my ideas come from everywhere: art, games, movies, cooking, badminton, Japan and China, and beautiful work by other people. Most of what I make lives in private repos, so this page shows the work instead of the code, plus the skills I build with, which are open.
 
 🐦 [X](https://x.com/shengyuchen) · 🏸 [Smashly](https://smashly.app)
 
