@@ -4,6 +4,8 @@
 
 I build with coding agents, mostly Claude Code. Badminton, games, Japan and China, and anything that looks good are where my ideas come from. Most of what I make lives in private repos, so this page shows the work instead of the code, plus the skills I use to build it, which are open.
 
+🐦 [X](https://x.com/shengyuchen) · 🏸 [Smashly](https://smashly.app)
+
 ---
 
 ## 🏸 Now building: Smashly
